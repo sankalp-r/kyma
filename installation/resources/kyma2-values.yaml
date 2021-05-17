@@ -1,0 +1,10 @@
+tracing:
+  kcproxy:
+    enabled: false
+
+kiali:
+  kcproxy:
+    enabled: false
+
+global:
+  installCRDs: false
